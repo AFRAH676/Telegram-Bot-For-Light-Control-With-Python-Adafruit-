@@ -7,8 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1QRxdufjAmPx2D6i5vxCKVWaR8GkGwaMx
 """
 
-x = "afrahunisa"#ADAFRUIT_IO_USERNAME
-y = "aio_UFLw845fsuomYfQc2nfZzkoNU8BI"#ADAFRUIT_IO_KEY
+x = "Your username"#ADAFRUIT_IO_USERNAME
+y = "Your Adafruit IO Key"#ADAFRUIT_IO_KEY
 
 !pip install adafruit-io
 
