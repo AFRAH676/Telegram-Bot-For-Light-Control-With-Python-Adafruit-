@@ -4,8 +4,8 @@ Use *On* command for turning on the light & *Off* for turning off the light
 
   
 #Required Libraries:
-1)Adafruit IO
-2)Telegram Bot
+  1)Adafruit IO
+  2)Telegram Bot
 
 Syntax to install the libraries
 For Adafruit IO:
