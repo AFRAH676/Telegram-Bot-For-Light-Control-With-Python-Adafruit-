@@ -1,0 +1,9 @@
+#Required Libraries:
+1)Adafruit IO
+2)Telegram Bot
+
+Syntax to install the libraries
+For Adafruit IO:
+  *pip install adafruit-io*
+For Telegram Bot:
+  *pip install python-telegram-bot*
